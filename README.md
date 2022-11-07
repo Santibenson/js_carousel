@@ -1,5 +1,7 @@
 # js_carousel
 
+(https://user-images.githubusercontent.com/114431556/200208614-ee637792-9acd-4bed-ab0c-faf234e745e5.png)
+
 # Week 6 & 7 Zuri Training assignment.
 
 Create a Carousel/Slideshow with 6 different images of  your choice. Ensure the following:
