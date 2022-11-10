@@ -1,5 +1,7 @@
 # js_carousel
 
+https://santislider.netlify.app/
+
 ![Screenshot (102)](https://user-images.githubusercontent.com/114431556/200208800-95d21dc7-b1f7-482b-8808-5d923a244902.png)
 
 # Week 6 & 7 Zuri Training assignment.
